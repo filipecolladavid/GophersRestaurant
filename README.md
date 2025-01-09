@@ -1,13 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ztszHLrd)
----
-title: Restaurant for Gophers
-subtitle: PCLT Project
-author: Bernardo Toninho
-date: 28 September, 2024
----
-
-This project is due on the 16 of October at 23:59.
-
 # Restaurant for Gophers
 
 In this project you will implement a simulation of a restaurant where chefs, waiters, and customers interact concurrently. 
